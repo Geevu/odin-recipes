@@ -10,7 +10,6 @@
 }
 
 div {
-    /* background-color: rgb(63, 114, 175); */
     background-color: rgb(17, 45, 78);
     padding: 0 30px;
     border-bottom: 40px solid rgb(252, 69, 129);
@@ -66,4 +65,11 @@ div img {
 
 .list-head a:hover {
     color: rgb(63, 114, 175);
+}
+
+.gap {
+    color: none;
+    background-color: none;
+    border: none;
+    height: 150px;
 }
