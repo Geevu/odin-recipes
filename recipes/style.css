@@ -236,3 +236,30 @@ li::marker {
 #end #icon:hover {
     border: 3px dotted rgba(216, 137, 103, 1);
 }
+
+/* rajma rice additional css */
+
+
+.dough-cont li a {
+    text-decoration: none;
+    color: rgb(222, 69, 129);
+}
+
+.dough-cont li a:hover {
+    color: rgb(252, 69, 129);
+    background-color: whitesmoke;
+}
+
+#ing-cont {
+    height: 700px;
+}
+
+/* dal makhni additonal css */
+
+#ir {
+    margin-bottom: 10px;
+}
+
+#stf {
+    margin-top: 40px;
+}
